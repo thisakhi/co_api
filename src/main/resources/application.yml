@@ -10,7 +10,7 @@ spring:
     show-sql: true
   mail:
     host: smtp.gmail.com
-    password: 9994384358
+    password: *********S
     port: 587
     properties:
       mail:
@@ -18,5 +18,5 @@ spring:
           auth: true
           starttls:
             enable: true
-    username: kkarunanithi1963@gmail.com
+    username: kkarunanithi3@gmail.com
     
